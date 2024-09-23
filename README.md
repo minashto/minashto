@@ -10,7 +10,7 @@ I'm an upcoming dev looking to learn the nook and corners of AI
 * ✉️  You can contact me at [ashwinpranovv@gmail.com](mailto:ashwinpranovv@gmail.com)
 * 🧠  I'm learning Machine Learning.
 * 🤝  I'm open to collaborating on Projects.
-* ⚡  I could be Miles Morales. and may have gotten bit by a radioactive spider. I'm pretty sure you know the rest.
+* ⚡  I could be Peter Parker and may have gotten bit by a radioactive spider. I'm pretty sure you know the rest.
 
 ### Skills
 
