@@ -7,7 +7,7 @@ Student
 I'm an upcoming dev looking to learn the nook and corners of AI
 
 * 🌍  I'm based in Coimbatore
-* ✉️  You can contact me at [ashwinpranovp.ad24@bitsathy.ac.in](mailto:ashwinpranovp.ad24@bitsathy.ac.in)
+* ✉️  You can contact me at [ashwinpranovv@gmail.com](mailto:ashwinpranovv@gmail.com)
 * 🧠  Exploring Generative AI. Learning how machines create and evolve.
 * 🤝  I'm open to collaborating on Projects.
 * ⚡  I could be Peter Parker and may have gotten bit by a radioactive spider. I'm pretty sure you know the rest.
